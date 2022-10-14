@@ -1,2 +1,2 @@
 # git215_setup
-Homework m1
+## Author: Katelyn Blakeley
